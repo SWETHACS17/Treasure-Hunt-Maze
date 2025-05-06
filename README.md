@@ -81,5 +81,21 @@ To get started with the game, follow these steps to install the necessary depend
 - **NumPy**: Used for mathematical operations and managing game-related data.
 
 ---
+## Screenshots
+
+### Home Page  
+![Home Page](images/home.png)
+
+### Choose Your Avatars  
+![Choose Avatars](images/select-your-avatars.png)
+
+### Friends Mode Gameplay  
+![Friends Mode](images/play-with-friend-mode-with-locks-and-keys.png)
+
+### All Modes in Play with Computer  
+![Play With Computer Modes](images/play-with-computer-modes.png)
+
+### Hard Mode with Robot  
+![Hard Mode](images/play-with-enemy-hard-mode.png)
 
 ### Enjoy playing **A-maze-ng** and good luck reaching the treasure!
