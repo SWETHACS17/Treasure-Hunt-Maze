@@ -89,17 +89,11 @@ To get started with the game, follow these steps to install the necessary depend
 ### Choose Your Avatars  
 <img src="images/select-your-avatars.png" alt="Choose Avatars" width="400"/>
 
-
 ### Friends Mode Gameplay  
 <img src="images/play-with-friend-mode-with-locks-and-keys.png" alt="Friends Mode" width="400" height="400"/>
 
-
-### All Modes in Play with Computer  
-<img src="images/play-with-computer-modes.png" alt="Play With Computer Modes" width="400"/>
-
-
-### Hard Mode with Robot  
-<img src="imagese/play-with-enemy-hard-mode.png" alt="Hard Mode" width="400"/>
+### Hard Mode in Play with Computer  
+<img src="images/play-with-computer-modes.png" alt="Play With Computer Mode Hard" width="400"/>
 
 
 ### Enjoy playing **A-maze-ng** and good luck reaching the treasure!
