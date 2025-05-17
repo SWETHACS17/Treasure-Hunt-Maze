@@ -13,8 +13,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
----
-
 ## **Gameplay**
 
 ### **Play with Friends**
@@ -32,7 +30,6 @@ In **Play with Computer** mode, there are three difficulty levels to choose from
 
 Can you outsmart the robot and grab the treasure?
 
----
 
 ## **Installation**
 
@@ -50,7 +47,6 @@ To get started with the game, follow these steps to install the necessary depend
    pip install flask
    ```
 
----
 
 ## **Running Locally**
 
@@ -71,7 +67,6 @@ To get started with the game, follow these steps to install the necessary depend
 
 4. **Open your browser** and go to `http://127.0.0.1:5000/` to start playing the game.
 
----
 
 ## **Technologies Used**
 
@@ -80,7 +75,6 @@ To get started with the game, follow these steps to install the necessary depend
 - **Flask**: A micro web framework for Python, used to create the server and handle requests.
 - **NumPy**: Used for mathematical operations and managing game-related data.
 
----
 ## Screenshots
 
 ### Home Page  
